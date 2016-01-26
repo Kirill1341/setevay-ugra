@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game3", "Game3.vcproj", "{46E4BB4E-BC9F-46EB-8DFD-5CF3C456E573}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{46E4BB4E-BC9F-46EB-8DFD-5CF3C456E573}.Debug.ActiveCfg = Debug|Win32
+		{46E4BB4E-BC9F-46EB-8DFD-5CF3C456E573}.Debug.Build.0 = Debug|Win32
+		{46E4BB4E-BC9F-46EB-8DFD-5CF3C456E573}.Release.ActiveCfg = Release|Win32
+		{46E4BB4E-BC9F-46EB-8DFD-5CF3C456E573}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
